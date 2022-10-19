@@ -6,7 +6,7 @@ import HomDetail from "../Home/Home.css";
 
 const Projects = ({ webProject }) => {
   return (
-    <div className="img-pj increase">
+    <div className="/img-pj increase">
       <img src={webProject.img} alt="" />
     </div>
   );
