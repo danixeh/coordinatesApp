@@ -1,0 +1,49 @@
+.shadow:hover {
+    box-shadow: 0 -10 5px #74D973;
+}
+
+.header {
+    top: 0pt;
+    left: 0pt;
+    width: auto;
+    height: 92pt;
+    background: #17171A 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+
+
+.header_list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 27px;
+}
+
+
+
+.header_item {
+    top: 31pt;
+    left: 1308pt;
+    height: 27pt;
+    /* UI Properties */
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-600) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-27) var(--unnamed-font-family-open-sans);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--white-ffffff);
+    text-align: left;
+    font: normal normal 600 17pt/27pt Open Sans;
+    letter-spacing: 0pt;
+    color: #c8c8c8;
+    opacity: 1;
+    list-style: none;
+    text-decoration: none;
+    font-style: none;
+}
+
+.header {
+    position: relative;
+}

@@ -1,0 +1,26 @@
+.partners-list {
+    width: 363px;
+    height: 226px;
+    background: #222531 0% 0% no-repeat padding-box;
+    border-radius: 29px;
+    opacity: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.img-partners-list {
+    width: 50%;
+}
+
+.media-m-partners {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 1300px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    gap: 60px;
+}
