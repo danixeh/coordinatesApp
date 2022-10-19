@@ -10,7 +10,7 @@
     flex-direction: column;
     flex-wrap: wrap;
     align-items: flex-start;
-    background-image: url(public/project_imgs/cd-package-design-x-4.jpg);
+    background-image: url(/project_imgs/cd-package-design-x-4.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat, repeat;
     /* width: 110px; */
@@ -30,7 +30,7 @@
     flex-direction: column;
     flex-wrap: wrap;
     align-items: flex-start;
-    background-image: url(/public/subheader_partners.png);
+    background-image: url(/subheader_partners.png);
     /* background-attachment: fixed; */
     background-repeat: no-repeat, repeat;
     /* width: 110px; */
